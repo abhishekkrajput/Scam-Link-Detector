@@ -1,0 +1,5 @@
+{
+  "name": "PhishGuard: Scam Link Detector",
+  "description": "A modern AI-powered web application to detect phishing and scam links using heuristics and Gemini AI analysis.",
+  "requestFramePermissions": []
+}
